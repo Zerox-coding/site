@@ -1,8 +1,8 @@
 ---
-id: tunnel-my
-title: Tunnel My ...
-sidebar_label: Tunnel My ...
-slug: /tunnel-my
+id: coding-zerox
+title: Coding-zerox
+sidebar_label: Coding zerox
+slug: /coding-zerox
 ---
 
 ## Wordpress
